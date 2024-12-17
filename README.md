@@ -8,6 +8,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-AVS&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-AVS&layout=donut)](https://github.com/Felipe-AVS/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+
 <div style="display: inline_block">
   Technologies i've learned:<br/><br/>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
