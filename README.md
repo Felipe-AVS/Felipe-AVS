@@ -56,5 +56,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/felipe-augusto-v-savioli-423a66218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:fesavi.negocios@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img height=19 src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+  <img height=25 src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 </div>
