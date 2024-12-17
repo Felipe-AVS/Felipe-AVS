@@ -7,7 +7,7 @@
 
 #### 🚀Passionate about creating immersive games and building fullstack solutions. Constantly learning and growing to bridge creativity and functionality in development.🚀
 
-<div style="display: flex">
+<div style="display: inline-block;box-sizing:border-box;">
 <a href="https://github.com/Felipe-AVS/github-readme-stats">
   <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Felipe-AVS&show_icons=true&theme=transparent" />
 </a>
