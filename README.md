@@ -14,7 +14,7 @@
   <img   align="center" src="https://github-readme-stats.vercel.app/api?username=Felipe-AVS&show_icons=true&theme=synthwave" />
 </a>
 </div>
-![Anurag's GitHub stats]()
+
 <br>
 
 <div style="display: inline_block">
