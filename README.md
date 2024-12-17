@@ -3,9 +3,11 @@
 ### 🎓 Technician in Systems Development and Analysis 
 ### 🖥️ Studying IT for 4+ years | 💼 2 years of professional experience  
 
+<br>
+
 #### 🚀Passionate about creating immersive games and building fullstack solutions. Constantly learning and growing to bridge creativity and functionality in development.🚀
 
-<div style="display: inline_block">
+<div style="display: flex">
 <a href="https://github.com/Felipe-AVS/github-readme-stats">
   <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Felipe-AVS&show_icons=true&theme=transparent" />
 </a>
@@ -14,7 +16,7 @@
 </a>
 </div>
 
-
+<br>
 
 <div style="display: inline_block">
   Technologies i've learned:<br/><br/>
