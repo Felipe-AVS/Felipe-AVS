@@ -6,7 +6,7 @@
 #### 🚀Passionate about creating immersive games and building fullstack solutions. Constantly learning and growing to bridge creativity and functionality in development.🚀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-AVS&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-AVS&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-AVS&layout=donut)](https://github.com/Felipe-AVS/github-readme-stats)
 
 <div style="display: inline_block">
   Technologies i've learned:<br/><br/>
