@@ -7,7 +7,7 @@
 
 <div style="display: inline_block">
 <a href="https://github.com/Felipe-AVS/github-readme-stats">
-  <img width=180 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Felipe-AVS&show_icons=true&theme=transparent" />
+  <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Felipe-AVS&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/Felipe-AVS/github-readme-stats">
   <img width=180 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-AVS&layout=donut&theme=transparent" />
