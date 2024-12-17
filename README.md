@@ -1,7 +1,10 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Hello, My name is Felipe Savioli! 👋
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+###👾 Game Developer | 🌐 Aspiring Fullstack Developer
+###🎓 Technician in Systems Development and Analysis 
+###🖥️ Studying IT for 4+ years | 💼 2 years of professional experience  
+
+🚀Passionate about creating immersive games and building fullstack solutions. Constantly learning and growing to bridge creativity and functionality in development.🚀
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
