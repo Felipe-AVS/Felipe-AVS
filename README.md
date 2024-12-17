@@ -3,7 +3,7 @@
 ### 🎓 Technician in Systems Development and Analysis 
 ### 🖥️ Studying IT for 4+ years | 💼 2 years of professional experience  
 
-##### 🚀Passionate about creating immersive games and building fullstack solutions. Constantly learning and growing to bridge creativity and functionality in development.🚀
+#### 🚀Passionate about creating immersive games and building fullstack solutions. Constantly learning and growing to bridge creativity and functionality in development.🚀
 
 <br>
 
