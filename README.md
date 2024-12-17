@@ -9,7 +9,7 @@
 
 <div style="display: inline-block;box-sizing:border-box;">
 <a href="https://github.com/Felipe-AVS/github-readme-stats">
-  <img   align="center" src="https://github-readme-stats.vercel.app/api?username=Felipe-AVS&show_icons=github&theme=synthwave" />
+  <img   align="center" src="https://github-readme-stats.vercel.app/api?username=Felipe-AVS&show_icons=true&theme=synthwave&rank_icon=github" />
 </a>
 </div>
 
