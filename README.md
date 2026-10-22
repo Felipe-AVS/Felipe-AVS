@@ -50,6 +50,9 @@
   <img align="center" alt="AWS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="FLUTTER" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="SASS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  
+            <img  alt="GCLOUD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+          
 </div>
 
   ##
